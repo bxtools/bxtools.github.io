@@ -1,0 +1,8 @@
+remote_theme: pmarsceill/just-the-docs
+color_scheme: light
+
+title: Bitrix Tools
+
+search_enabled: false
+
+footer_content: Copyright &copy; 2022
